@@ -1,7 +1,7 @@
 # Bengaluru House Price Predictor
 
 Overview
-The Bengaluru House Price Predictor is a web application built with Python and Streamlit, designed to predict house prices in Bengaluru based on specific property features. It leverages machine learning techniques, particularly the RandomForestRegressor from scikit-learn, to provide accurate predictions.
+The House Price Predictor is a web application built with Python and Streamlit, designed to predict house prices in Bengaluru based on specific property features. It leverages machine learning techniques, particularly the RandomForestRegressor from scikit-learn, to provide accurate predictions.
 
 Features
 Data Preprocessing:
